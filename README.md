@@ -3,6 +3,7 @@
 # StreamHub Deck
 
 [![Latest release](https://img.shields.io/github/v/release/filipedeptulski/StreamHub-Deck?label=Latest%20Release&logo=github)](https://github.com/filipedeptulski/StreamHub-Deck/releases/latest)
+[![Official site](https://img.shields.io/badge/Official%20Site-GitHub%20Pages-fdca2e?logo=githubpages&logoColor=111)](https://filipedeptulski.github.io/StreamHub-Deck/)
 [![Downloads](https://img.shields.io/github/downloads/filipedeptulski/StreamHub-Deck/total?label=Downloads&logo=github)](https://github.com/filipedeptulski/StreamHub-Deck/releases)
 [![SteamOS](https://img.shields.io/badge/SteamOS-Steam%20Deck-1b2838?logo=steam)](https://store.steampowered.com/steamos)
 [![Electron](https://img.shields.io/badge/Electron-App-47848f?logo=electron&logoColor=white)](https://www.electronjs.org/)
@@ -15,6 +16,8 @@ StreamHub Deck opens DRM-protected streaming services through a real browser pro
 ## Quick Start
 
 Download the latest Steam Deck package from GitHub Releases:
+
+[Official StreamHub Deck page](https://filipedeptulski.github.io/StreamHub-Deck/)
 
 [Download StreamHub Deck for SteamOS](https://github.com/filipedeptulski/StreamHub-Deck/releases/latest)
 
